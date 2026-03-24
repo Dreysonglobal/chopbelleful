@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chopbelleful.com.ng/sitemap.xml
+Sitemap: https://chopbellefulwineanddine.com.ng/sitemap.xml
